@@ -1,0 +1,41 @@
+.container1{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(195, 231, 219);
+    height: auto;
+    border: 2px solid blue;
+    border-radius: 20px;
+    
+}
+.container2{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(221, 232, 194);
+    height: auto;
+    border: 2px solid blue;
+    border-radius: 20px;
+    color:black;
+}
+img{
+    border:20px;
+    border-radius: 25px;
+}
+.container3{
+    background-color: rgb(149, 99, 236);
+    color: rgb(249, 244, 244);
+}
+/* #imgfile{
+   
+    padding-bottom: 50px;
+    border-radius: 25px;
+
+   
+} */
+.container1 img{
+    height: 200px;
+    width: 200px;
+}
+.container2 img{
+    height: 200px;
+    width: 200px;
+}
